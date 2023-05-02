@@ -1,3 +1,7 @@
+/*
+Autor: Rubens Matheus Venancio Melo Oliveira
+*/
+
 #include <iostream>
 #include "funcoes.hpp"
 
