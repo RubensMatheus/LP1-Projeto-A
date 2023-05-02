@@ -1,0 +1,15 @@
+25
+Redinha
+Av. Doutor João Medeiros Filho-Rua Professor José Melquíades-Rua Doutor Manoel Miranda-Av. Rio Branco
+50
+Serrambi
+Av. Ayrton Senna-Av. São Miguel Dos Caribés-Av. Engenheiro Roberto Freire-Av. Senador Salgado Filho-Av. Bernardo Vieira-Av. Felizardo Firmino Moura-Av. Das Fronteiras
+63
+Felipe Camarão
+Rua Professor Antônio Trigueiro-Av. Nossa Senhora Do Rosário-Av. Rio Grande Do Norte-Av. Coronel Estevam-Av. Bernardo Vieira-Av. Senador Salgado Filho
+64
+Nova Natal
+Av. Das Cirandas-Av. Das Cirandas-Av. Da Chegança-Av. Cidade Praia-Av. Maranguape-Av. Doutor João Medeiros Filho-Rua Doutor Mario Negócio-Av. Felizardo Firmino Moura
+70
+Parque dos Coqueiros
+Av. Pedro Álvares Cabral-Av. Dos Expedicionários-Av. Bacharel Tomaz Landim-Av. Coronel Estevam-Rua Doutor Mario Negócio-Av. Felizardo Firmino Moura
